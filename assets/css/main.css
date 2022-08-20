@@ -3153,11 +3153,11 @@ input, select, textarea {
 			}
 
 			#header .logo:hover strong {
-				background-color: #e5e7e8;
+				background-color: #9bf1ff;
 			}
 
 			#header .logo:active strong {
-				background-color: #595a5a;
+				background-color: #53e3fb;
 			}
 
 		#header nav {
@@ -3475,9 +3475,9 @@ input, select, textarea {
 
 				#banner > .inner .content p {
 					color: #444444;
-					font-size: 0.8em;
+					font-size: 0.9em;
 					font-weight: 400;
-					letter-spacing: 0.15em;
+					letter-spacing: 0.12em;
 					/*text-transform: uppercase; */
 				}
 
@@ -3918,7 +3918,7 @@ input, select, textarea {
 			}
 
 			#menu .close:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='20px' height='20px' viewBox='0 0 20 20' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %23995a5a%3B stroke-width: 2%3B %7D%3C/style%3E%3Cline x1='0' y1='0' x2='20' y2='20' /%3E%3Cline x1='20' y1='0' x2='0' y2='20' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='20px' height='20px' viewBox='0 0 20 20' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %23990000%3B stroke-width: 2%3B %7D%3C/style%3E%3Cline x1='0' y1='0' x2='20' y2='20' /%3E%3Cline x1='20' y1='0' x2='0' y2='20' /%3E%3C/svg%3E");
 				opacity: 0;
 			}
 
