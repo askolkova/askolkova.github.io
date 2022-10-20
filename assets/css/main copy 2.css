@@ -3145,7 +3145,7 @@ input, select, textarea {
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: #ffffff;
-				color: #5b5b5b;
+				color: #242943;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -3153,11 +3153,11 @@ input, select, textarea {
 			}
 
 			#header .logo:hover strong {
-				background-color: #d6d5d5;
+				background-color: #9bf1ff;
 			}
 
 			#header .logo:active strong {
-				background-color: #d6d5d5;
+				background-color: #53e3fb;
 			}
 
 		#header nav {
@@ -3497,7 +3497,6 @@ input, select, textarea {
 
 		#banner.style2:after {
 			background-color: #7d7b7b;
-			opacity: 0.89;
 		}
 
 		#banner.style3:after {
